@@ -3,6 +3,9 @@ name = "cargo-fun"
 version = "0.1.0"
 authors = ["Cora Sherratt <cora.sherratt@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "Make Cargo a little more fun."
+repository = "https://github.com/csherratt/cargo-fun/tree/master"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
