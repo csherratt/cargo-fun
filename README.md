@@ -10,10 +10,10 @@ From crates.io
 cargo install cargo-fun
 ```
 
-From hwere
+# Usage
 
 ```
-cargo install --path .
+cargo fun
 ```
 
-
+Enjoy!
